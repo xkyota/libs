@@ -9,7 +9,5 @@ int main(void) {
   int result4 = add(15, 12);
   int result5 = add(15, 12);
 
- 
-
   return 0;
 }
